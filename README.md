@@ -11,3 +11,4 @@ npm install
 ```bash
 npm run dev
 ```
+// arreglar detalle tamaño imagen, posición del botón
